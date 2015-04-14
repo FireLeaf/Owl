@@ -36,27 +36,27 @@ LOAD LUA FILE: D:/ProjectOwl/Owl/src/main.lua
 
 [LUA-print] [INFO] # CONFIG_SCREEN_WIDTH          = 640.00
 
-[LUA-print] [INFO] # CONFIG_SCREEN_HEIGHT         = 960.00
+[LUA-print] [INFO] # CONFIG_SCREEN_HEIGHT         = 360.56
 
-[LUA-print] [INFO] # display.widthInPixels        = 640.00
+[LUA-print] [INFO] # display.widthInPixels        = 1136.00
 
-[LUA-print] [INFO] # display.heightInPixels       = 960.00
+[LUA-print] [INFO] # display.heightInPixels       = 640.00
 
-[LUA-print] [INFO] # display.contentScaleFactor   = 1.00
+[LUA-print] [INFO] # display.contentScaleFactor   = 1.77
 
 [LUA-print] [INFO] # display.width                = 640.00
 
-[LUA-print] [INFO] # display.height               = 960.00
+[LUA-print] [INFO] # display.height               = 360.56
 
 [LUA-print] [INFO] # display.cx                   = 320.00
 
-[LUA-print] [INFO] # display.cy                   = 480.00
+[LUA-print] [INFO] # display.cy                   = 180.28
 
 [LUA-print] [INFO] # display.left                 = 0.00
 
 [LUA-print] [INFO] # display.right                = 640.00
 
-[LUA-print] [INFO] # display.top                  = 960.00
+[LUA-print] [INFO] # display.top                  = 360.56
 
 [LUA-print] [INFO] # display.bottom               = 0.00
 
@@ -64,9 +64,9 @@ LOAD LUA FILE: D:/ProjectOwl/Owl/src/main.lua
 
 [LUA-print] [INFO] # display.c_right              = 320.00
 
-[LUA-print] [INFO] # display.c_top                = 480.00
+[LUA-print] [INFO] # display.c_top                = 180.28
 
-[LUA-print] [INFO] # display.c_bottom             = -480.00
+[LUA-print] [INFO] # display.c_bottom             = -180.28
 
 [LUA-print] [INFO] #
 

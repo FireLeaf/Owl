@@ -21,7 +21,7 @@ function LoginScene:initScene()
 	backSprite:setPosition(cc.p(0, 0))
 	self:addChild(backSprite)
 
-	local userNameLbl = cc.label:
+	--local userNameLbl = cc.label:
 end
 
 return LoginScene
